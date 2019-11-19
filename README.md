@@ -12,7 +12,9 @@ Application : It is used to recognize number plates of vehicles, processing bank
 MNIST DATA is imported directly into code by using keras so,there is no need to create dataset seperately.
 
 To train the model first run "train_model.py"
+
 Once training is completed "mnist_model.h5" file has been created automatically
+
 Now run the "test_mnist_model.py" file by giving path of your input image.
 
 Finally it recognize digits successfully
