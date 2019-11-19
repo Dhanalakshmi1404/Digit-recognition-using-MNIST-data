@@ -2,6 +2,7 @@
 The MNIST database of handwritten digits, has a training set of 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized.
 
 Tools used : Anaconda 2.1/3.5, Keras
+
 Concepts have to learn : Library keras & Matplot, categorical_crossentropy, optimizer, Dense & DropOut, ReLU and Softmax activation functions
 
 Digit recognition is recognizing the digits from different sources like emails, Bank cheque, papers, Images etc.
